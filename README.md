@@ -1,6 +1,6 @@
 # article-notebooks
 
-This repository contains the *Jupyter* notebooks from 2023 journal article
+This repository contains the *Jupyter* notebooks from the 2023 journal article
 '*Biotite: New tools for a versatile Python bioinformatics library*'.
 
 ## Setup
