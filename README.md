@@ -6,7 +6,7 @@ This repository contains the *Jupyter* notebooks from the 2023 journal article
 ## Setup
 
 The `environment.yml` provides a
-[Conda](https://docs.conda.io/en/latest/miniconda.html) environment including
+[Conda](https://docs.conda.io/en/latest/) environment including
 the dependencies for these notebooks.
 The environment can be created with
 
