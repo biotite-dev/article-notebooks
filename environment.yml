@@ -1,0 +1,19 @@
+# Conda environment, that includes all packages that are necessary for
+# the complete Biotite development process.
+
+name: biotite-article
+
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda
+
+dependencies:
+  - python =3.9
+  - jupyter
+  - biotite =0.34.1
+  - ammolite =0.8.0
+  - springcraft =0.2.0
+  - hydride =1.1.1
+  - matplotlib >=3.3
+  - autodock-vina
