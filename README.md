@@ -2,6 +2,8 @@
 
 This repository contains the *Jupyter* notebooks from the 2023 journal article
 '*Biotite: New tools for a versatile Python bioinformatics library*'.
+The notebooks demonstrate sequence and structure analysis using *Biotite* and its
+extension packages on the example of human hemoglobin.
 
 ## Setup
 
